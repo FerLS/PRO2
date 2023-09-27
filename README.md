@@ -1,2 +1,2 @@
 # PRO2
-Programación 2 - UDC 2023
+**Asignatura Programacion 2 - 2023**
