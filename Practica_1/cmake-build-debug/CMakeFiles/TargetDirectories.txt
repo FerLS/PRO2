@@ -1,0 +1,4 @@
+C:/Users/ferde/OneDrive/Escritorio/Uni/2º Cuatrismestre/Programacion_2/Practica_1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ferde/OneDrive/Escritorio/Uni/2º Cuatrismestre/Programacion_2/Practica_1/cmake-build-debug/CMakeFiles/main.dir
+C:/Users/ferde/OneDrive/Escritorio/Uni/2º Cuatrismestre/Programacion_2/Practica_1/cmake-build-debug/CMakeFiles/test_lists.dir
+C:/Users/ferde/OneDrive/Escritorio/Uni/2º Cuatrismestre/Programacion_2/Practica_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

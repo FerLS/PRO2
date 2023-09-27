@@ -1,0 +1,4 @@
+C:/Users/ferde/OneDrive/Escritorio/Uni/2º Cuatrismestre/Programacion_2/Practica_0/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/ferde/OneDrive/Escritorio/Uni/2º Cuatrismestre/Programacion_2/Practica_0/cmake-build-debug/CMakeFiles/Rational_pointer.dir
+C:/Users/ferde/OneDrive/Escritorio/Uni/2º Cuatrismestre/Programacion_2/Practica_0/cmake-build-debug/CMakeFiles/Rational_struct.dir
+C:/Users/ferde/OneDrive/Escritorio/Uni/2º Cuatrismestre/Programacion_2/Practica_0/cmake-build-debug/CMakeFiles/edit_cache.dir

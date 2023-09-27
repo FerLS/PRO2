@@ -1,0 +1,26 @@
+# ninja log v5
+11	150	6707670670507647	CMakeFiles/test_product_list.dir/test_product_list.c.obj	326f0ff2b89e45e9
+174	325	6725818241423972	../bin/main.exe	dbb025d31e2c472e
+11	141	6707664175891952	CMakeFiles/test_bid_stack.dir/bid_stack.c.obj	9f1bdca5040c7cbf
+2	173	6725818240058679	CMakeFiles/main.dir/main.c.obj	a3be7da01630c903
+13	165	6725807139452003	CMakeFiles/main.dir/product_list.c.obj	f0212294d30e162b
+4	152	6707664175891952	CMakeFiles/test_bid_stack.dir/test_bid_stack.c.obj	f19f090109c2b860
+22	164	6725807139452003	CMakeFiles/main.dir/bid_stack.c.obj	9b8c915196a10d8c
+154	383	6707664178093773	../bin/test_bid_stack.exe	5c274dc155e38f7f
+1	162	6725822223646440	build.ninja	ad4acd9db79adb
+3	154	6707704306806705	CMakeFiles/test_product_list.dir/product_list.c.obj	266618320ea365fa
+155	316	6707704308277631	../bin/test_product_list.exe	7b584ac6702760fc
+25	154	6725822228794270	CMakeFiles/main.dir/bid_stack.c.obj	443ecab689b7c67
+15	159	6725822228950580	CMakeFiles/main.dir/product_list.c.obj	64221418b535fed5
+4	187	6725822229106839	CMakeFiles/main.dir/main.c.obj	a34ee776aad8f8b2
+187	341	6725822230694715	../bin/main.exe	dbb025d31e2c472e
+4	175	6725825041902405	CMakeFiles/main.dir/main.c.obj	a34ee776aad8f8b2
+176	323	6725825043282945	../bin/main.exe	dbb025d31e2c472e
+18	133	6725862923772879	CMakeFiles/main.dir/bid_stack.c.obj	443ecab689b7c67
+12	143	6725862923929136	CMakeFiles/main.dir/product_list.c.obj	64221418b535fed5
+3	181	6725862924241665	CMakeFiles/main.dir/main.c.obj	a34ee776aad8f8b2
+181	333	6725862925774386	../bin/main.exe	dbb025d31e2c472e
+26	197	6727580894604482	CMakeFiles/main.dir/bid_stack.c.obj	443ecab689b7c67
+16	198	6727580894614480	CMakeFiles/main.dir/product_list.c.obj	64221418b535fed5
+2	219	6727580894824558	CMakeFiles/main.dir/main.c.obj	a34ee776aad8f8b2
+219	374	6727580896315629	../bin/main.exe	dbb025d31e2c472e

@@ -1,0 +1,15 @@
+# ninja log v5
+3	142	6679977825045610	CMakeFiles/test_lists.dir/dynamic_list.c.obj	68965759c2eb6911
+2	333	6698209650453169	CMakeFiles/main.dir/main.c.obj	f7bbeb44f4abdcd9
+14	129	6697348581072904	CMakeFiles/main.dir/static_list.c.obj	2d0f530cd2006cf1
+333	563	6698209652680002	../bin/main.exe	f58e05beaba04842
+2	155	6686985160008438	CMakeFiles/test_lists.dir/test.c.obj	cbc0521ed2c3e496
+3	123	6686989766428917	CMakeFiles/test_lists.dir/static_list.c.obj	f6af3a407a6532ce
+123	251	6686989767646425	../bin/test_lists.exe	9e7b174fb462264e
+9	138	6697347836718296	CMakeFiles/main.dir/dynamic_list.c.obj	224a7d19acaeee8c
+14	157	6698210019219223	CMakeFiles/main.dir/static_list.c.obj	765666447fa981d4
+3	158	6698210019219223	CMakeFiles/main.dir/main.c.obj	9a068c2cceb992f7
+159	313	6698210020753046	../bin/main.exe	f58e05beaba04842
+2	133	6720660097438863	CMakeFiles/test_lists.dir/test.c.obj	778c05adf00b5efa
+17	135	6720660097438863	CMakeFiles/test_lists.dir/static_list.c.obj	142239629658a235
+135	280	6720660098975366	../bin/test_lists.exe	9e7b174fb462264e

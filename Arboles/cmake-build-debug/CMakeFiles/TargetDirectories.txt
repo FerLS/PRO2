@@ -1,0 +1,3 @@
+C:/Users/ferde/OneDrive/Escritorio/Uni/2º Cuatrismestre/Programacion_2/Arboles/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ferde/OneDrive/Escritorio/Uni/2º Cuatrismestre/Programacion_2/Arboles/cmake-build-debug/CMakeFiles/Lista.dir
+C:/Users/ferde/OneDrive/Escritorio/Uni/2º Cuatrismestre/Programacion_2/Arboles/cmake-build-debug/CMakeFiles/rebuild_cache.dir
